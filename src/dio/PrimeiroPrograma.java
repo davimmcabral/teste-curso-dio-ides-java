@@ -6,7 +6,7 @@ public class PrimeiroPrograma {
 		Funcionario gerente = new Funcionario();
 		gerente.nome = "DAVI";
 		gerente.sobreNome = "CABRAL";
-		System.out.println(gerente.nome);
+		System.out.println(gerente.nome + gerente.sobreNome);
 		}
 
 }
